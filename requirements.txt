@@ -1,0 +1,7 @@
+playwright
+bs4
+openai
+python-dotenv
+kafka-python
+pyspark
+cassandra-driver
